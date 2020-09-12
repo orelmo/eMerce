@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (eMerce3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Address.cpp
+  Customer.cpp
+  CustomerSeller.cpp
+  Date.cpp
+  Feedback.cpp
+  main.cpp
+  Product.cpp
+  Seller.cpp
+  System.cpp
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C++\eMerce3\eMerce\System.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C++\eMerce3\eMerce\System.cpp(418,30): warning C4018: '>': signed/unsigned mismatch
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C++\eMerce3\eMerce\System.cpp(531,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C++\eMerce3\eMerce\System.cpp(571,44): warning C4018: '>': signed/unsigned mismatch
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C++\eMerce3\eMerce\System.cpp(615,31): warning C4018: '<': signed/unsigned mismatch
+  User.cpp
+  Generating Code...
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C++\eMerce3\eMerce\System.cpp(722): warning C4715: 'System::getUserType': not all control paths return a value
+  eMerce3.vcxproj -> C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C++\eMerce3\Debug\eMerce.exe
